@@ -1,0 +1,48 @@
+
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+body {
+    background-color: #FFFFFF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #666666;
+}
+
+header {
+    background-color: #000033;
+    color: #FFFFFF;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    line-height: 200%;
+}
+
+nav {
+    font-weight: bold;
+    background-color: #90C7E3;
+}
+
+h2 {
+    color: #3399CC;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+dt {
+    color: #000033;
+    font-weight: bold;
+}
+
+.resort {
+    color: #000033;
+    font-size: 1.2em;
+}
+
+footer {
+    font-size: 0.70em;
+    text-align: center;
+    font-style: italic;
+}
