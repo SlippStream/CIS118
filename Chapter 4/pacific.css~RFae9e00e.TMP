@@ -13,7 +13,7 @@ body {
     background-color: #39c;
 	background-image: linear-gradient(to bottom, #3399cc, #c2e0f0, #3399cc);
     font-family: Verdana, Arial, sans-serif;
-    color: #666;
+    color: #666666;
 }
 
 main {
@@ -43,7 +43,7 @@ main {
 }
 
 header {
-    background-color: #003;
+    background-color: #000033;
     color: #FFFFFF;
     font-family: Georgia, serif;
 }
@@ -66,25 +66,24 @@ h1 {
 	background-repeat: no-repeat;
 	background-position: right;
 	margin-bottom: 0px;
-	
 }
 
 h2 {
-    color: #39C;
+    color: #3399CC;
     font-family: Georgia, serif;
 }
 
 h3 {
-	color: #003;
+	color: #000033
 }
 
 dt {
-    color: #003;
+    color: #000033;
     font-weight: bold;
 }
 
 .resort {
-    color: #003;
+    color: #000033;
     font-size: 1.2em;
 }
 
