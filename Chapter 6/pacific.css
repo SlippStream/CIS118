@@ -1,7 +1,5 @@
 /* CIS 118 Pacific Trails Case Study Chapter 6 Nick Zimanski - pacific.css */
-* {
-	box-sizing: border-box;
-}
+* {box-sizing: border-box;}
 
 header, nav, main, footer {display: block;}
 
@@ -23,9 +21,7 @@ body {
 }
 
 main {
-	padding: 0em 2em;
-	display: block;
-	padding: 1px 0px;
+	padding: 1px 0em 0px 2em;
 	background-color: #fff;
 	margin-left: 170px;
 }
